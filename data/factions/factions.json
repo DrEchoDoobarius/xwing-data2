@@ -31,10 +31,12 @@
   },
   {
     "name": "Galactic Republic",
-    "xws": "galacticrepublic"
+    "xws": "galacticrepublic",
+    "icon": "https://sb-cdn.fantasyflightgames.com/factions/RepublicIcon.png"
   },
   {
     "name": "Separatist Alliance",
-    "xws": "separatistalliance"
+    "xws": "separatistalliance",
+    "icon" : "https://sb-cdn.fantasyflightgames.com/factions/SeparatistIcon.png"
   }
 ]
