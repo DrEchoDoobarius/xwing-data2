@@ -1,0 +1,120 @@
+{
+  "quick-builds": [
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "anakinskywalker",
+          "upgrades": {
+            "force": ["supernaturalreflexes"],
+            "configuration": ["calibratedlasertargeting"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "ahsokatano",
+          "upgrades": {
+            "force": ["battlemeditation"],
+            "astromech": ["r4pastromech"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "jediknight",
+          "upgrades": {
+            "configuration": ["delta7b"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "obiwankenobi",
+          "upgrades": {
+            "force": ["predictiveshot"],
+            "modification": ["sparepartscanisters"],
+            "astromech": ["r4p17"],
+            "configuration": ["calibratedlasertargeting"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "saeseetiin",
+          "upgrades": {
+            "force": ["supernaturalreflexes"],
+            "astromech": ["r4pastromech"],
+            "configuration": ["delta7b"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 4,
+      "pilots": [
+        {
+          "id": "macewindu",
+          "upgrades": {
+            "force": ["supernaturalreflexes"],
+            "configuration": ["delta7b"],
+            "astromech": ["r2astromech"],
+            "modification": ["afterburners", "shieldupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "plokoon",
+          "upgrades": {
+            "force": ["battlemeditation", "sense"],
+            "astromech": ["r4pastromech"],
+            "modification": ["shieldupgrade"]
+
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "luminaraunduli",
+          "upgrades": {
+            "force": ["brilliantevasion"],
+            "modification": ["shieldupgrade"],
+            "astromech": ["r4pastromech"],
+            "configuration": ["delta7b"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "barrissoffee",
+          "upgrades": {
+            "force": ["sense"],
+            "astromech": ["r2astromech"]
+          }
+        }
+      ]
+    }
+  ]
+}
