@@ -135,6 +135,7 @@
     "data/quick-builds/galactic-empire.json",
     "data/quick-builds/resistance.json",
     "data/quick-builds/first-order.json",
-    "data/quick-builds/galactic-republic.json"
+    "data/quick-builds/galactic-republic.json",
+    "data/quick-builds/separatist-alliance.json"
   ]
 }

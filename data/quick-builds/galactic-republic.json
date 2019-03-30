@@ -6,7 +6,7 @@
         {
           "id": "anakinskywalker",
           "upgrades": {
-            "force": ["supernaturalreflexes"],
+            "force-power": ["supernaturalreflexes"],
             "configuration": ["calibratedlasertargeting"]
           }
         }
@@ -18,7 +18,7 @@
         {
           "id": "ahsokatano",
           "upgrades": {
-            "force": ["battlemeditation"],
+            "force-power": ["battlemeditation"],
             "astromech": ["r4pastromech"]
           }
         }
@@ -41,7 +41,7 @@
         {
           "id": "obiwankenobi",
           "upgrades": {
-            "force": ["predictiveshot"],
+            "force-power": ["predictiveshot"],
             "modification": ["sparepartscanisters"],
             "astromech": ["r4p17"],
             "configuration": ["calibratedlasertargeting"]
@@ -55,7 +55,7 @@
         {
           "id": "saeseetiin",
           "upgrades": {
-            "force": ["supernaturalreflexes"],
+            "force-power": ["supernaturalreflexes"],
             "astromech": ["r4pastromech"],
             "configuration": ["delta7b"]
           }
@@ -68,7 +68,7 @@
         {
           "id": "macewindu",
           "upgrades": {
-            "force": ["supernaturalreflexes"],
+            "force-power": ["supernaturalreflexes"],
             "configuration": ["delta7b"],
             "astromech": ["r2astromech"],
             "modification": ["afterburners", "shieldupgrade"]
@@ -82,7 +82,7 @@
         {
           "id": "plokoon",
           "upgrades": {
-            "force": ["battlemeditation", "sense"],
+            "force-power": ["battlemeditation", "sense"],
             "astromech": ["r4pastromech"],
             "modification": ["shieldupgrade"]
 
@@ -96,7 +96,7 @@
         {
           "id": "luminaraunduli",
           "upgrades": {
-            "force": ["brilliantevasion"],
+            "force-power": ["brilliantevasion"],
             "modification": ["shieldupgrade"],
             "astromech": ["r4pastromech"],
             "configuration": ["delta7b"]
@@ -110,7 +110,7 @@
         {
           "id": "barrissoffee",
           "upgrades": {
-            "force": ["sense"],
+            "force-power": ["sense"],
             "astromech": ["r2astromech"]
           }
         }

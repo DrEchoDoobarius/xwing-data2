@@ -1,0 +1,209 @@
+{
+  "quick-builds": [
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "dfs081",
+          "upgrades": {
+            "missile": ["protonrockets"],
+            "configuration": ["grapplingstruts"],
+            "modification": ["hullupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "precisehunter",
+          "upgrades": {
+            "missile": ["concussionmissiles"],
+            "modification": ["afterburners", "shieldupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "separatistdrone",
+          "upgrades": {
+            "missile": ["energyshellcharges"],
+            "configuration": ["grapplingstruts"],
+            "modification": ["shieldupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 1,
+      "pilots": [
+        {
+          "id": "dfs311",
+          "upgrades": {
+            "configuration": ["grapplingstruts"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "haorchallprototype",
+          "upgrades": {
+            "missile": ["energyshellcharges"],
+            "modification": ["afterburners", "stealthdevice"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "haorchallprototype",
+          "upgrades": {
+            "missile": ["discordmissiles", "energyshellcharges"],
+            "modification": ["stealthdevice"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 1,
+      "pilots": [
+        {
+          "id": "tradefederationdrone",
+          "upgrades": {
+            "missile": ["energyshellcharges"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "generalgrievous",
+          "upgrades": {
+            "talent": ["treacherous"],
+            "modification": ["imperviumplating"],
+            "title": ["soullessone"],
+            "tactical-relay": ["tv94"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "wattambor",
+          "upgrades": {
+            "talent": ["intimidation"],
+            "tactical-relay" : ["kraken"],
+            "modification": ["shieldupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "skakoanace",
+          "upgrades": {
+            "talent": ["crackshot"],
+            "modification": ["afterburners"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "captainsear",
+          "upgrades": {
+            "talent": ["daredevil"],
+            "tactical-relay": ["kraken"],
+            "modification": ["imperviumplating", "stealthdevice"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "feethanottrawautopilot",
+          "upgrades": {
+            "tactical-relay": ["tv94"],
+            "modification": ["imperviumplating"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 4,
+      "pilots": [
+        {
+          "id": "darthmaul",
+          "upgrades": {
+            "force-power": ["hate"],
+            "cannon": ["heavylasercannon"],
+            "crew": ["perceptivecopilot"],
+            "device": ["drk1probedroids"],
+            "modification": ["shieldupgrade"],
+            "title": ["scimitar"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 4,
+      "pilots": [
+        {
+          "id": "countdooku",
+          "upgrades": {
+            "force-power": ["brilliantevasion", "predictiveshot"],
+            "torpedo": ["iontorpedoes"],
+            "crew": ["generalgrievous"],
+            "modification": ["hullupgrade"],
+            "title": ["scimitar"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "066",
+          "upgrades": {
+            "crew": ["chancellorpalpatine"],
+            "modification": ["shieldupgrade"],
+            "title": ["scimitar"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "darkcourier",
+          "upgrades": {
+            "crew": ["countdooku", "generalgrievous"],
+            "tactical-relay": ["k2b4"],
+            "title": ["scimitar"]
+          }
+        }
+      ]
+    }
+  ]
+}
