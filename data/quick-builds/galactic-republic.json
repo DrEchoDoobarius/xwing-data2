@@ -42,8 +42,8 @@
           "id": "obiwankenobi",
           "upgrades": {
             "force-power": ["predictiveshot"],
-            "modification": ["sparepartscanisters"],
             "astromech": ["r4p17"],
+            "modification": ["sparepartscanisters"],
             "configuration": ["calibratedlasertargeting"]
           }
         }
@@ -69,8 +69,8 @@
           "id": "macewindu",
           "upgrades": {
             "force-power": ["supernaturalreflexes"],
-            "configuration": ["delta7b"],
             "astromech": ["r2astromech"],
+            "configuration": ["delta7b"],
             "modification": ["afterburners", "shieldupgrade"]
           }
         }
@@ -97,8 +97,8 @@
           "id": "luminaraunduli",
           "upgrades": {
             "force-power": ["brilliantevasion"],
-            "modification": ["shieldupgrade"],
             "astromech": ["r4pastromech"],
+            "modification": ["shieldupgrade"],
             "configuration": ["delta7b"]
           }
         }
