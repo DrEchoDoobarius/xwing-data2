@@ -115,6 +115,173 @@
           }
         }
       ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "oddball",
+          "upgrades": {
+            "talent": ["saturationsalvo"],
+            "missle": ["clustermissiles"],
+            "modification": ["afterburners", "munitionsfailsafe"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "kickback",
+          "upgrades": {
+            "talent": ["crackshot"],
+            "modification": ["synchronizedconsole"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id":"axe",
+          "upgrades": {
+            "talent": ["juke"],
+            "missle": ["homingmissiles"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "swoop",
+          "upgrades": {
+            "talent": ["composure"],
+            "missle": ["protonrockets"],
+            "modification": ["synchronizedconsole"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "bluesquadronprotector",
+          "upgrades": {
+            "talent": ["dedicated"],
+            "modification": ["synchronizedconsole"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "tucker",
+          "upgrades": {
+            "missle": ["concussionmissiles"],
+            "modification": ["munitionsfailsafe"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "goldsquadrontrooper",
+          "upgrades": {
+            "missle": ["clustermissiles"],
+            "modification": ["afterburners"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "oddball-arc170starfighter",
+          "upgrades": {
+            "talent": ["elusive"],
+            "crew": ["seasonednavigator"],
+            "gunner": ["clonecommandercody"],
+            "modification": ["afterburners"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "jag",
+          "upgrades": {
+            "talent": ["predator"],
+            "torpedoes": ["iontorpedoes"],
+            "astromech": ["r2astromech"],
+            "gunner": ["seventhfleetgunner"],
+            "modification": ["shieldupgrade"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "squadsevenveteran",
+          "upgrades": {
+            "talent": ["experthandling"],
+            "torpedoes": ["protontorpedoes"],
+            "astromech": ["r4pastromech"],
+            "crew": ["novicetechnician"],
+            "gunner": ["seventhfleetgunner"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 3,
+      "pilots": [
+        {
+          "id": "wolffe",
+          "upgrades": {
+            "talent": ["outmaneuver"],
+            "astromech": ["r4p44"],
+            "gunner": ["veterantailgunner"],
+            "perceptivecopilot": ["perceptivecopilot"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "sinker",
+          "upgrades": {
+            "talent": ["experthandling"]
+          }
+        }
+      ]
+    },
+    {
+      "threat": 2,
+      "pilots": [
+        {
+          "id": "104thbattalionpilot",
+          "upgrades": {
+            "talent": ["dedicated"],
+            "astromech": ["r4pastromech"]
+          }
+        }
+      ]
     }
   ]
 }
